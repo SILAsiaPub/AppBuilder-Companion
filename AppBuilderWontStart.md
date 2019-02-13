@@ -1,5 +1,7 @@
 ## App Builder won't start
 
+- [Readme](README.md)
+
 ### App icon on desktop when clicked does not start SAB <a id="h2-4"></a>
 
 

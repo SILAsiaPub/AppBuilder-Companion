@@ -1,5 +1,7 @@
 ## Issue with *object heap* <a id="h2-5"></a>
 
+- [Readme](README.md)
+
 32 bit OS or 64 bit OS running 32 bit Java seem to have an issue with the **object heap** size. 
 
 To fix this do the following:

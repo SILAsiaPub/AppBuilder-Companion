@@ -1,6 +1,6 @@
 ## Getting a YouTube link
 
-- [Index](index.md)
+- [Readme](README.md)
 
 If you are using a **YouTube** online video, here are the steps to get the direct video link.
 

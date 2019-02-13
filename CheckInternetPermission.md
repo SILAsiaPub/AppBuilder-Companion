@@ -1,6 +1,6 @@
 ## Checking Internet permissions for _online_ videos
 
-- [Index](index.md)
+- [Readme](README.md)
 
 1. If the **App > Permissions**  does not contain the following:
 ![VideoLink6|318x85](../attachments/VideoLink6.PNG) 
