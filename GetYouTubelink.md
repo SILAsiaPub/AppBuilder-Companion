@@ -21,4 +21,4 @@ If you are using a **YouTube** online video, here are the steps to get the direc
 
 This technique can be used for other sources too, it will look a bit different.
 
-[Checking Internet setting for Online Video](CheckInternetPermissions.md)
+[Checking Internet setting for Online Video](CheckInternetPermission.md)
