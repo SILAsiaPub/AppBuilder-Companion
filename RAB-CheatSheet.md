@@ -1,5 +1,7 @@
 # RAB SFM cheat sheet
 
+- [Readme](README.md)
+
 ## Headings
 - `\id` Not displayed. Information about what is in the file. Metadata
 - `\h` or `\toc2` The wording that appears in the book list selection menu
