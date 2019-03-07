@@ -35,11 +35,11 @@ Currently keywords (like footnotes) have text decoration of an underline. Underl
   }
   ```
   In the HTML we have some success.<br/>
-  ![image|648x37](zD8YwYISeRG1yNuXDFNW6FN97k9.png) 
+  ![image|648x37](images/zD8YwYISeRG1yNuXDFNW6FN97k9.png) 
   Note the original styling has the color navy.
 
   In the App the story is different.
-  ![image|485x105](tH6iAu9VJiJRjEzoz2vauH4UM3D.png) 
+  ![image|485x105](images/tH6iAu9VJiJRjEzoz2vauH4UM3D.png) 
   Only the footnote has the red background.
 
   Trying **span.selectable** also made changes in the HTML but no difference in the App.
@@ -51,7 +51,7 @@ Currently keywords (like footnotes) have text decoration of an underline. Underl
 ### Third experiment
 
 You can style all **a:link** to remove the underscore and and change the background color. But 
-  that will affect all links. But we can conclude from that unlike the HTML the App keywords and footnotes are **a** hyperlinks
+  that will affect all links. But we can conclude from that unlike the HTML the App keywords and footnotes are **a** hyperlinks not spans.
 
 I tried **a:active** and it works, but does so only while it is being touched.
 
@@ -73,7 +73,7 @@ And correct the first line to:
 <style name="a:hover" type="character" category="custom">
  ```
 Outcome:
-![image|690x474](aHqnilO8OI5umrakgbvjMUOawb9.png) 
+![image|690x474](images/aHqnilO8OI5umrakgbvjMUOawb9.png) 
 
 The text change goes away after a  touch or two on the screen. I'd add the **text-decoration:none** attribute as well.
 
