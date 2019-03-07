@@ -38,7 +38,7 @@ Currently keywords (like footnotes) have text decoration of an underline. Underl
   ![image|648x37](images/html-footnote-class.png) <br/>
   Note the original styling has the color navy.
 
-  In the App the story is different.
+  In the App the story is different.<br/>
   ![image|485x105](images/app-footnote-class.png) <br/>
   Only the footnote has the red background.
 
