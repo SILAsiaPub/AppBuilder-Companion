@@ -35,11 +35,11 @@ Currently keywords (like footnotes) have text decoration of an underline. Underl
   }
   ```
   In the HTML we have some success.<br/>
-  ![image|648x37](images/html-footnote-class.png) 
+  ![image|648x37](images/html-footnote-class.png) <br/>
   Note the original styling has the color navy.
 
   In the App the story is different.
-  ![image|485x105](images/app-footnote-class.png) 
+  ![image|485x105](images/app-footnote-class.png) <br/>
   Only the footnote has the red background.
 
   Trying **span.selectable** also made changes in the HTML but no difference in the App.
@@ -72,7 +72,7 @@ And correct the first line to:
 ```xml
 <style name="a:hover" type="character" category="custom">
  ```
-Outcome:
+#### Outcome:
 ![image|690x474](images/app-a-hover.png) 
 
 The text change goes away after a  touch or two on the screen. I'd add the **text-decoration:none** attribute as well.
