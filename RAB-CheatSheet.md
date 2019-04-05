@@ -41,3 +41,28 @@
   `\q1 \v 1 First line of verse one`
 - `\bd bolded words\bd*` bold words
 - `\it italicised words\it*` italicised words
+  
+## Songbook add first line and chorus first line to index
+```
+\id BAT
+\toc2 Batoli Betiw
+\c 1
+\s Ala Tanu! Aleluya!
+
+\q An k'Ala tanu
+\q Ala Denkɛ ko la,
+\q O sara ka kunun
+\q Ka ɲɛnamaya.
+\b
+\q2 Ala Tanu! Aleluya!
+\q2 Ala Tanu! Amiina!
+\q2 Ala Tanu! Aleluya!
+\q2 Yesu bɛ na tun.
+```
+
+Add lines:
+```
+\zs An k'Ala tanu 
+\zs Ala Tanu! Aleluya!
+```
+Equivalent to the first line of the first verse and the first line of the chorus.
