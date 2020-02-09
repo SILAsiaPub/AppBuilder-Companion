@@ -11,7 +11,7 @@ When testing selectors I set **background-color: red** so I know when I have the
 Currently keywords (like footnotes) have text decoration of an underline. Underline is a default way of signaling a link in HTML
 
 ### First experiment
-- First try **span.w** since the keyword is marked up by `\k keyword\k\*` and is character styling not a paragraph.
+- First try **span.w** since the keyword is marked up by `\w keyword\w\*` and is character styling not a paragraph.
   - That does not work.
   - Conclusion the keywords are not handled this way in the App.
   
