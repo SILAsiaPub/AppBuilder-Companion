@@ -13,3 +13,4 @@ Extra documentation not in the official docs for App Builders
 - [Issue with *object heap*](IssuesWithObjectHeap.md)
 - [RAB Cheat Sheet](RAB-CheatSheet.md)
 - [Sharing the App](SharingTheApp.md)
+- [Including Bloom books in SAB/RAB 7+](Bloom.md)
